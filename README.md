@@ -10,4 +10,4 @@ We will use the UCI Machine Learning Repository for breast cancer dataset.
 
 To get dataset go to:-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
-In order to make more advancements in this field of study, we can try and focus on applying unsupervisedlearning as well, and also use image classification and regression techniques to make our models more expert in detecting the malignancy. ML has still a long way to go if we are talking about completely replacing diagnostic tests like PET SCAN and biopsies. However, if successful, the detection will be very accurate and painless.
+In order to make more advancements in this field of study, we can try and focus on applying unsupervised learning as well, and also use image classification and regression techniques to make our models more expert in detecting the malignancy. ML has still a long way to go if we are talking about completely replacing diagnostic tests like PET SCAN and biopsies. However, if successful, the detection will be very accurate and painless.
